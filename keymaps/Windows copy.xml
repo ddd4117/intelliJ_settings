@@ -28,6 +28,9 @@
   </action>
   <action id="EditorSplitLine" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta help" />
+  </action>
   <action id="NextEditorTab" />
   <action id="NextTab" />
   <action id="OptimizeImports">
