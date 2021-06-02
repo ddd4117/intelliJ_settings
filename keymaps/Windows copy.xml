@@ -33,6 +33,9 @@
   </action>
   <action id="NextEditorTab" />
   <action id="NextTab" />
+  <action id="NextWindow">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
